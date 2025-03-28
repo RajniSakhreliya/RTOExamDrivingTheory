@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Clip 10",
+    "mp4": "https://firebasestorage.googleapis.com/v0/b/theorytest-af62f.appspot.com/o/test6%2F8.mp4?alt=media&token=1fccbaec-f1b1-4df0-8777-8038f67de549",
+    "title": "CGI Clip 10",
+    "description": "As you drive around the bend, you see a temporary road sign warning you of roadworks and a van displaying its amber warning beacon and hazard lights. As you approach this obstruction, you slow down and give way to oncoming vehicles before moving out safely.",
+    "hazards": [
+      {
+        "start": "00:00:11.700",
+        "end": "00:00:20.000"
+      }
+    ]
+  }
+]

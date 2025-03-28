@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Clip 9",
+    "mp4": "https://firebasestorage.googleapis.com/v0/b/theorytest-af62f.appspot.com/o/test5%2F13.mp4?alt=media&token=bc0f8ce0-434f-4695-852e-a85bebc4740a",
+    "title": "CGI Clip 9",
+    "description": "Driving through a residential area, you see a cyclist riding on the pavement before deciding to join the road.  You slow down and keep at a safe distance from the cyclist.",
+    "hazards": [
+      {
+        "start": "00:00:10.500",
+        "end": "00:00:13.300"
+      }
+    ]
+  }
+]

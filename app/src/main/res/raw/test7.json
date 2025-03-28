@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Clip 7",
+    "mp4": "https://firebasestorage.googleapis.com/v0/b/theorytest-af62f.appspot.com/o/test3%2F4.mp4?alt=media&token=f9647908-7b39-45eb-a67d-59643783b438",
+    "title": "CGI Clip 7",
+    "description": "In a residential area with no pavement, you come across a pedestrian on your left walking on the road. Spotting the pedestrian, you go around him, allowing him to carry on walking comfortably.",
+    "hazards": [
+      {
+        "start": "00:00:10.500",
+        "end": "00:00:13.000"
+      }
+    ]
+  }
+]

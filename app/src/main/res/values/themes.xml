@@ -1,0 +1,82 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.RTOExamDrivingTheory" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TransparentActionBar" parent="Theme.RTOExamDrivingTheory">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="btn_ripple_normal" parent="@style/Material.Drawable.Ripple.Touch.MatchView.Light">
+        <item name="android:textAppearance">@style/Base.TextAppearance.AppCompat.Button</item>
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+        <item name="rd_backgroundColor">#114caf50</item>
+        <item name="rd_cornerRadius">20.0dip</item>
+        <item name="rd_enable">true</item>
+        <item name="rd_rippleAnimDuration">300</item>
+        <item name="rd_rippleColor">#074caf50</item>
+    </style>
+
+    <style name="ripple_btn_tab_widget_light" parent="@style/Material.Drawable.Ripple.Touch.MatchView.Light">
+        <item name="rd_backgroundColor">#4dffffff</item>
+        <item name="rd_cornerRadius">20.0dip</item>
+        <item name="rd_enable">true</item>
+        <item name="rd_rippleAnimDuration">300</item>
+        <item name="rd_rippleColor">#20ffffff</item>
+    </style>
+
+    <style name="MyTabLayoutTextAppearance" parent="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse">
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="btn_ripple_normal_no_radius" parent="@style/Material.Drawable.Ripple.Touch.MatchView.Light">
+        <item name="android:textAppearance">@style/Base.TextAppearance.AppCompat.Button</item>
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+        <item name="rd_backgroundColor">#33c9c9c9</item>
+        <item name="rd_cornerRadius">0.0dip</item>
+        <item name="rd_enable">true</item>
+        <item name="rd_rippleAnimDuration">300</item>
+        <item name="rd_rippleColor">#44c9c9c9</item>
+    </style>
+
+    <style name="btn_ripple_normal_radius_48" parent="@style/Material.Drawable.Ripple.Touch.MatchView.Light">
+        <item name="android:textAppearance">@style/Base.TextAppearance.AppCompat.Button</item>
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+        <item name="android:background">@null</item>
+        <item name="rd_backgroundColor">#074c4c4c</item>
+        <item name="rd_cornerRadius">24.0dip</item>
+        <item name="rd_enable">true</item>
+        <item name="rd_rippleAnimDuration">300</item>
+        <item name="rd_rippleColor">#114c4c4c</item>
+    </style>
+
+    <style name="btn_ripple_normal_bold" parent="@style/Material.Drawable.Ripple.Touch.MatchView.Light">
+        <item name="android:textAppearance">@style/Base.TextAppearance.AppCompat.Button</item>
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+        <item name="rd_backgroundColor">#4d4caf50</item>
+        <item name="rd_cornerRadius">20.0dip</item>
+        <item name="rd_enable">true</item>
+        <item name="rd_rippleAnimDuration">300</item>
+        <item name="rd_rippleColor">#4d4caf50</item>
+    </style>
+
+    <style name="SCBSwitch" parent="@style/Theme.AppCompat.Light">
+        <item name="android:colorForeground">#42221f1f</item>
+        <item name="colorControlActivated">@color/green_500</item>
+        <item name="colorSwitchThumbNormal">#fff1f1f1</item>
+    </style>
+
+    <style name="btn_ripple_normal_45" parent="@style/Material.Drawable.Ripple.Touch.MatchView.Light">
+        <item name="android:textAppearance">@style/Base.TextAppearance.AppCompat.Button</item>
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+        <item name="rd_backgroundColor">#33c9c9c9</item>
+        <item name="rd_cornerRadius">45.0dip</item>
+        <item name="rd_enable">true</item>
+        <item name="rd_rippleAnimDuration">300</item>
+        <item name="rd_rippleColor">#44c9c9c9</item>
+    </style>
+</resources>

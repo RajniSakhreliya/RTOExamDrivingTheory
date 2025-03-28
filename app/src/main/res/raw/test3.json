@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Clip 3",
+    "mp4": "https://firebasestorage.googleapis.com/v0/b/theorytest-af62f.appspot.com/o/3.mp4?alt=media&token=d161f45d-97e5-4b0a-b6d3-d9a1bb214f45",
+    "title": "CGI Clip 3",
+    "description": "A learner driver emerges from the junction to your right. Take extra care as they be inexperienced and need special consideration. You slow down and stop as the learner driver stalls in the middle of the road.",
+    "hazards": [
+      {
+        "start": "00:00:28.130",
+        "end": "00:00:32.120"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff3f51b5</color>
+    <color name="colorPrimaryDark">#ff303f9f</color>
+    <color name="colorAccent">#FF03DAC5</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorDarkGreen">#ff006018</color>
+    <color name="colorGreen">#ff007e11</color>
+    <color name="lightGreen">#6EAE77</color>
+    <color name="lightGreen10">#93B197</color>
+
+    <color name="colorOffWhite">#fffafafa</color>
+    <color name="colorWhite">#ffffffff</color>
+
+    <color name="blackColor">#000000</color>
+    <color name="black_80">#CC000000</color>
+    <color name="darkGrayColor">#ff8b8b8b</color>
+    <color name="orangeColor">#ffc18300</color>
+    <color name="redColor">#ffff0000</color>
+    <color name="grey10">#ECECEC</color>
+    <color name="greyText">#AAAAAA</color>
+    <color name="grey80">#6A6A6A</color>
+
+    <color name="divider">#ECECEC</color>
+
+    <color name="green_500">#4CAF50</color>
+    <color name="green_200">#A5D6A7</color>
+    <color name="color_text_item_setting">#ff3c3c3c</color>
+    <color name="color_tint_arrow">#ffb9b9b9</color>
+
+    <color name="tabIndicatorSelectedColor">@color/green_500</color>
+    <color name="whitealpha">#99ffffff</color>
+
+    <color name="mainOptionSelection">#76CCCD</color>
+</resources>

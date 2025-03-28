@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Clip 4",
+    "mp4": "https://firebasestorage.googleapis.com/v0/b/theorytest-af62f.appspot.com/o/4.mp4?alt=media&token=93e4b9b7-1ae4-4e7e-b577-4138c4d27767",
+    "title": "CGI Clip 4",
+    "description": "While driving, you see two pedestrians walking on the pavement to your right with the intention of crossing the road. You must be mindful that their view of the road is obscured by the white van. You bring the car to a halt allowing them to pass safely.",
+    "hazards": [
+      {
+        "start": "00:00:31.000",
+        "end": "00:00:35.240"
+      }
+    ]
+  }
+]

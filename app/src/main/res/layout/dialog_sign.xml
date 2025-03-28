@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_card_view"
+        android:minWidth="@dimen/_300sdp"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:id="@+id/frTop"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/imgSign"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="15.0dip"
+                android:layout_marginTop="16.0dip"
+                android:layout_marginRight="15.0dip"
+                android:adjustViewBounds="true"
+                android:padding="1.0dip"
+                android:scaleType="fitCenter" />
+        </FrameLayout>
+
+        <RelativeLayout
+            android:id="@+id/rlMiddle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="24.0dip"
+            android:minHeight="@dimen/_56sdp">
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="24.0dip"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_marginBottom="@dimen/_10sdp">
+
+                <TextView
+                    android:id="@+id/tvContent"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/signDialogContent"
+                    android:textColor="@color/color_text_item_setting"
+                    android:textSize="@dimen/_12sdp" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <com.rey.material.widget.FrameLayout
+            android:id="@+id/btn_ok"
+            style="@style/ripple_btn_tab_widget_light"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="24.0dip"
+            android:layout_marginRight="24.0dip"
+            android:layout_marginBottom="@dimen/_16sdp"
+            android:background="@drawable/bg_button_ok">
+
+            <TextView
+                android:id="@+id/tv_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/text_ok"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                android:textSize="16.0dip"
+                android:textStyle="bold" />
+        </com.rey.material.widget.FrameLayout>
+    </LinearLayout>
+</RelativeLayout>

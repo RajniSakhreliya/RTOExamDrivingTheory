@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Clip 8",
+    "mp4": "https://firebasestorage.googleapis.com/v0/b/theorytest-af62f.appspot.com/o/test4%2F5.mp4?alt=media&token=c20cc68b-a381-47fa-9002-fbd088961108",
+    "title": "CGI Clip 8",
+    "description": "On a suburban road, you see a driver emerging from his vehicle just ahead on your left. You go around the car, giving the person plenty of room while ensuring that you are not too close to oncoming traffic.",
+    "hazards": [
+      {
+        "start": "00:00:03.600",
+        "end": "00:00:07.000"
+      }
+    ]
+  }
+]

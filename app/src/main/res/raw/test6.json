@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Clip 6",
+    "mp4": "https://firebasestorage.googleapis.com/v0/b/theorytest-af62f.appspot.com/o/test2%2F3.mp4?alt=media&token=307fefa5-0fb9-4362-bacf-17056d745280",
+    "title": "CGI Clip 6",
+    "description": "You spot a large tractor emerging from a junction to your right up ahead. The tractor comes into your lane due its size and some parked cars next to the junction. You slow down and stop to allow the tractor to pass safely.",
+    "hazards": [
+      {
+        "start": "00:00:32.090",
+        "end": "00:00:40.080"
+      }
+    ]
+  }
+]

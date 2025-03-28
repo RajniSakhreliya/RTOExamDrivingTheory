@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Clip 2",
+    "mp4": "https://firebasestorage.googleapis.com/v0/b/theorytest-af62f.appspot.com/o/2.mp4?alt=media&token=707240b2-2db3-4a8f-a0dd-c5e57fbf8aec",
+    "title": "CGI Clip 2",
+    "description": "As you drive down the road, you see a cyclist emerging from the junction on your left. You cannot overtake the cyclist due to oncoming traffic so you slow down until it is safe to do so.",
+    "hazards": [
+      {
+        "start": "00:00:32.060",
+        "end": "00:00:36.050"
+      }
+    ]
+  }
+]

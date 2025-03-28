@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Clip 1",
+    "mp4": "https://firebasestorage.googleapis.com/v0/b/theorytest-af62f.appspot.com/o/1.mp4?alt=media&token=8484fb02-c801-4067-b3c6-ca405581b92c",
+    "title": "CGI Clip 1",
+    "description": "The sign warned you of the road becoming narrow  up ahead. A car drives through the rail underpass ahead with further traffic following behind by the bend in the road, which becomes a hazard as the road narrows.  You slow down and let the car pass through the underpass.",
+    "hazards": [
+      {
+        "start": "00:00:18.190",
+        "end": "00:00:23.180"
+      }
+    ]
+  }
+]
